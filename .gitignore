@@ -1,0 +1,1 @@
+"#Ingored compiled files *.class *.jar *.war #Ignored build directories /target/ /build/ #Ingore IDE files .idea/ *.im/ .vscode /" 
